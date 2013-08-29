@@ -137,3 +137,17 @@ sup;soup
 nothing;nufrin
 games;gams
 game;gam
+don't;dunt
+dont;dunt
+doesnt;aint
+does'nt;aint
+doesn't;aint
+history;hissori
+porn;pron
+boobs;bewbs
+vagina;pussi
+buttocks;ass
+butt;booti
+youtube;yurtub
+peanut;penit
+grape;garp 
