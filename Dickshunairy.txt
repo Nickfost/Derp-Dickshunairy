@@ -103,3 +103,7 @@ name;naem
 scared;skared
 nigger;nigg
 cry;cri
+toes;troes
+sandwich;sammich
+fork;frok
+putin;pooten
