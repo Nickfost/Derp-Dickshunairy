@@ -112,3 +112,5 @@ shoes;crocs
 sauce;saus
 hot;hawt
 overweight;fat ass
+aaron;a-a-ron
+erin;a-a-ron
