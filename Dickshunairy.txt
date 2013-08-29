@@ -117,3 +117,5 @@ erin;a-a-ron
 don't;dunt
 dont;dunt
 doesnt;aint
+does'nt;aint
+doesn't;aint
