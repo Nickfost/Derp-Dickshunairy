@@ -114,3 +114,6 @@ hot;hawt
 overweight;fat ass
 aaron;a-a-ron
 erin;a-a-ron
+don't;dunt
+dont;dunt
+doesnt;aint
