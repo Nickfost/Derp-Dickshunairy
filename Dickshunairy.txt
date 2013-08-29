@@ -7,7 +7,7 @@ seriously;sersli
 know;noe
 about;bout
 an;am an
-a;an am
+a;an
 am;am an am
 it;et
 are;r
