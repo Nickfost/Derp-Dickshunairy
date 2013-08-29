@@ -101,3 +101,5 @@ more;moar
 look;luk
 name;naem
 scared;skared
+nigger;nigg
+cry;cri
