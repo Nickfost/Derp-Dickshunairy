@@ -107,3 +107,8 @@ toes;troes
 sandwich;sammich
 fork;frok
 putin;pooten
+animal;aminal
+shoes;crocs
+sauce;saus
+hot;hawt
+overweight;fat ass
