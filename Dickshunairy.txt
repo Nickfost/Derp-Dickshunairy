@@ -8,22 +8,20 @@ actually;akshaly
 all:;al
 am;am an am
 america;murica
-American;'Murican
-american;idjit
+american;'Murican
 an;am an
 animal;aminal
 another;nother
 are;r
-Australian; kangeroo
+australian; kangeroo
 bath;baf
 be;b
-beat;beet
-because;cuz
+beat;bete
+because;bc
 blow;blo
 boobs;bewbs
-booty;bootay
 booty;booti
-breed;bread
+breed;brede
 butt;booti
 buttocks;ass
 centennial;swagtennial
@@ -31,7 +29,6 @@ computer;compooter
 cry;cri
 damn;dam
 darren;fagit
-darren; fagit
 day;dai
 dictionary;dickshunairy
 die;di
@@ -42,9 +39,8 @@ does'nt;aint
 does;dos
 doesn't;aint
 doesnt;aint
-dog;doge
+dog;dawg
 don't;dunt
-dong;ding
 dont;dunt
 dude;dood
 erin;a-a-ron
@@ -54,15 +50,16 @@ everytime;evrytiem
 fag;fagit
 faggit;fagit
 faggot;fagit
-feed;fed
+feed;fede
 fork;frok
 fuck;fuk
+fucking;fukn
+fucked;fuked
 game;gaem
-game;gam
-games;gams
+games;gaems
 gay;GHEY
 girl;gril
-god;god
+god;gawd
 gonna;guna
 grape;garp 
 grapes;garpes
@@ -71,14 +68,13 @@ have;hav
 her;she
 hey;hay
 history;hissori
-hold; held
+hold;holed
 holy;holi
 hot;hawt
-i'm;am
-i;eye
+i'm;ime an am
 i;me
 idiot;idjit
-im;am
+im;ime an am
 index;indecks
 it;et
 jamal;jaml
@@ -96,8 +92,10 @@ mexico;metsico
 more;moar
 my;mi
 name;naem
-need;ned
+need;nede
 nick;neck
+fost;frost
+nickfost;neckfrost
 nigger;nigg
 nothing;nufrin
 of;ov
@@ -109,6 +107,8 @@ porn;pron
 project;projekt
 putin;pooten
 rate;r8
+and;n
+comment;cummit
 richard;rikkerd
 sandwich;sammich
 sauce;saus
@@ -123,7 +123,6 @@ shoes;crocs
 sometimes;sumtims
 square;sqwar
 stop;stahp
-stop;STAHP
 stupid;stooped
 sup;soup
 swag;sweg
@@ -131,6 +130,7 @@ that;dat
 the;teh
 this;dis
 to;2
+two;2
 toes;troes
 tomatoes;tomaters
 too;2
@@ -138,18 +138,17 @@ tower;terwer
 tweet;twat
 tweets;twits
 twitter;twatter
-two;too
 up;oop
-vagina;pussi
+vagina;pusi
+pussy;pusi
 water;werter
 water; werter
-weak;week
-week;weak
+weak;weke
 weird;weerd
 woman;womern
 word;wurd
-yolo;yooloo
-yolo;yulu
+yolo;YOLO SWAG
 you;u
+oh;o
 your;ur
 youtube;yurtub
