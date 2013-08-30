@@ -30,8 +30,10 @@ centennial;swagtennial
 computer;compooter
 cry;cri
 damn;dam
+darren;fagit
 darren; fagit
 day;dai
+dictionary;dickshunairy
 die;di
 ding;dong
 do;does
@@ -77,8 +79,10 @@ i;eye
 i;me
 idiot;idjit
 im;am
+index;indecks
 it;et
 jamal;jaml
+kickstarter;kekstrator
 know;noe
 lets;lez
 like;liek
@@ -124,6 +128,7 @@ stupid;stooped
 sup;soup
 swag;sweg
 that;dat
+the;teh
 this;dis
 to;2
 toes;troes
@@ -136,6 +141,7 @@ twitter;twatter
 two;too
 up;oop
 vagina;pussi
+water;werter
 water; werter
 weak;week
 week;weak
@@ -147,9 +153,3 @@ yolo;yulu
 you;u
 your;ur
 youtube;yurtub
-water;werter
-darren;fagit
-dictionary;dickshunairy
-index;indecks
-kickstarter;kekstrator
-the;teh
