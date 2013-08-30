@@ -147,9 +147,9 @@ yolo;yulu
 you;u
 your;ur
 youtube;yurtub
-+water;werter
-+darren;fagit
-+dictionary;dickshunairy
-+index;indecks
-+kickstarter;kekstrator
-+the;teh
+water;werter
+darren;fagit
+dictionary;dickshunairy
+index;indecks
+kickstarter;kekstrator
+the;teh
