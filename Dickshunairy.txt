@@ -193,3 +193,17 @@ fry;fri
 shirt;shert
 eye;I
 hair;hare
+respite;respit
+sam;shadow
+pizza;chisebred
+cheese;chise
+bread;bred
+paint;pante
+plastic;plastik
+shoe;foot house
+suite;soot
+show;sho
+laptop;bellyputer
+gmail;germal
+lace;laec
+shoelace;foot house laec
