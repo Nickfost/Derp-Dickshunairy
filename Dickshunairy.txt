@@ -182,3 +182,14 @@ buy;bi
 it;et
 for;4
 you;u
+food;fude
+foods;fudes
+what;wut
+man;men
+translator;trunslartor
+suck;suk
+eat;ete
+fry;fri
+shirt;shert
+eye;I
+hair;hare
