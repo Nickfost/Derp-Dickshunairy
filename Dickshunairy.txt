@@ -61,7 +61,7 @@ gay;GHEY
 girl;gril
 god;gawd
 gonna;guna
-grape;garp 
+grape;garp
 grapes;garpes
 guys;guise
 have;hav
@@ -209,9 +209,7 @@ lace;laec
 shoelace;foot house laec
 wyatt;wert
 aj;eh-jay
-floppy disk;floopy dick
 me;mii
 butthole;bunghole
-yo mom;buckkito'lard
 toilet;shitter
 amazing;shittastical
