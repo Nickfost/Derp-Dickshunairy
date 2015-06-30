@@ -3,7 +3,7 @@ require("include.php");
 $rows = rand(2,12);
 starthtml();
 metadescription("this translates english into derpish");
-metakeywords("derp");
+metakeywords("derp translator, engrish, english to derp");
 title("derp dickshunary");
 beginbody();
 html("<form role=\"form\" method=\"post\" ");

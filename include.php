@@ -1,16 +1,15 @@
 <?php
 
 //		HTML Function 
+session_start();
+
 function html($html){
-	if($GLOBALS["minify"]==true){
-		echo trim($html);
-		}
-	else{
-		echo $html."\n";
-		}
-	
+	echo trim($html);
 }
 function starthtml(){
+	if(isset($_GET['Username']) && isset($_GET['Password'])){
+		login($_GET['Username'], $_GET['Password']);
+	}
 	html("<!DOCTYPE html>");
 	html("<html lang=\"en\">");
   	html("	<head>");
@@ -34,6 +33,13 @@ function beginbody(){
 	bootstrap();
 	html("	</head>");
 	html("	<body class=\"container\">");
+	html("	<p class=\"text-center h3\">");
+	html("		<a href=\"/\" />Home</a> | <a href=\"/submit a word.php\" />Submit a word</a> ");
+	if(loggedin()){
+		html("		| <a href=\"/accept wurds.php\" />accept wurds</a> ");
+	}
+
+	html("	</p>");
 	html("<div style=\"margin-top:15%;\">");
 	
 }
@@ -65,5 +71,56 @@ function translate($sentance){
  		}
 	}	
 	return $newsentance;
+}
+
+function checkifexists($thing){
+	global $db; 
+	$sql = "SELECT * FROM  `Words` WHERE Real_Word =".$thing;
+	$result = $db->query($sql);
+	if($result->num_rows > 0){
+		return true;
+	}
+	
+	else{
+		return false;
+	}
+	
+}
+
+function cleanmysql($string){
+	global $db;
+	return $db->real_escape_string($string);	
+}
+
+function login($username, $password) {
+	global $db; 	
+	$username = cleanmysql($username);
+	$query = "SELECT * FROM Users WHERE Username=\"".$username."\" LIMIT 1";
+	$result = $db->query($query);
+	$data = $result->fetch_object();
+	unset($query, $result);
+	if (isset($data->Password) && $password == $data->Password) {
+		$_SESSION["user-id"] = $data->ID;
+		header("Location: /"); 
+		die();	
+	}
+}
+
+function loggedin(){
+	if(isset($_SESSION["user-id"])){
+		return true;
+	}
+	else{
+		return false;
+	}
+}
+
+function submitword($realword, $newword){
+	global $db;
+	$realword = cleanmysql($realword);
+	$newword = cleanmysql($newword);
+	$sql = "INSERT INTO `Words` (`Real_Word`, `Derp_Word`) VALUES ('".$realword."', '".$newword."')";
+	
+	
 }
 ?>
